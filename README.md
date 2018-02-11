@@ -1,6 +1,6 @@
-#Casino Game
-##Slots
-##...
+# Casino Game
+## Slots
+## ...
 
 ---
 
